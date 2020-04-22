@@ -9,3 +9,5 @@ This is a series of community-developed workshops that can be given at Meetups o
 You can find the a template for the workshop details [here](Workshop_template.md)
 
 If you have a suggestion for a workshop, or you have developed one that you'd like to share, please post a pull request including the link to your project workshop. 
+
+[Workshops Website](README.md)
