@@ -24,7 +24,7 @@ You can additional materials below to help you run this workshop. TDB
 
  * [link to welcome video:](VulcanApp.md) This is highly encouraged.
  * [link to slides:](VulcanApp.md) Make this generic enough so that it will be easy for the facilitator to customize
- * [link to code:](VulcanApp.md) repo If available
+ * [link to code:](https://github.com/ApolloMeteorNYC/VulcanApp) repo If available
  * [link to notes:](VulcanApp.md) Facilitator notes, script, etc.
  * [link to notes:](VulcanApp.md) 3rd party resources Are there links to articles, videos, tutorials?
  * [link to notes:](VulcanApp.md) 3rd party resources
